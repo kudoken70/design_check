@@ -105,7 +105,8 @@ https://docs.google.com/spreadsheets/d/1Y3JqXSyHN0Tqpr5uBmfPSakGyTw90cGBj5vD4uqE
 - WEBサイトを訪れている人に、最後まで読んでもらえるようなデザインになっているか						
 						
 ---
-***補足***
+
+
 上記のaunが有効期限の関係で開けなくなってしまった場合、下記に書き出しPDFをアップしてますのでそちらからご確認ください。
 
 https://github.com/kudoken70/design_check/tree/master/pdf
