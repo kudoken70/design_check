@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1Y3JqXSyHN0Tqpr5uBmfPSakGyTw90cGBj5vD4uqE
 ---
 
 ## デザインチェック例
-▼あすなろ鍼灸整骨院<br>https://aun.page.link/X1gLG
+▼あすなろ鍼灸整骨院<br>https://aun.page.link/APaiq	
 
 ## チェックポイント						
 - 屋号検索よりもキーワード検索でwebサイトを訪れるケースが多いので、屋号はそれほど大きくなくてOK。<br>
@@ -20,7 +20,7 @@ https://docs.google.com/spreadsheets/d/1Y3JqXSyHN0Tqpr5uBmfPSakGyTw90cGBj5vD4uqE
 ---
 
 ## デザインチェック例
-▼ソフト整体院日だまり<br>https://aun.page.link/APaiq		
+▼ソフト整体院日だまり<br>https://aun.page.link/X1gLG
 
 ## チェックポイント						
 - 先生の写真にはなるべくコピーが重ならないほうが良い。（ある程度ならOK）
